@@ -18,8 +18,6 @@ Ce projet peut servir de **référence reproductible** pour construire un pipeli
 ---
 
 ## 🏗️ Architecture globale
-
-![image_cours](https://github.com/user-attachments/assets/55456992-895a-4b56-af57-2458c83d822a)
 ```
 Source (NYC Taxi Parquet)
 |
