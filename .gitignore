@@ -1,0 +1,19 @@
+# Environnements Python
+.venv/
+__pycache__/
+*.pyc
+
+# Données locales / volumineuses
+data/
+*.parquet
+*.csv
+
+# Logs
+*.log
+
+# Airflow
+airflow.db
+logs/
+
+# OS
+.DS_Store
